@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Lisa-and-Peresvet/static/css/main.0f36587a.chunk.css",
-    "main.js": "/Lisa-and-Peresvet/static/js/main.b6b7b9e5.chunk.js",
-    "main.js.map": "/Lisa-and-Peresvet/static/js/main.b6b7b9e5.chunk.js.map",
+    "main.css": "/Lisa-and-Peresvet/static/css/main.9e400218.chunk.css",
+    "main.js": "/Lisa-and-Peresvet/static/js/main.dd4326a7.chunk.js",
+    "main.js.map": "/Lisa-and-Peresvet/static/js/main.dd4326a7.chunk.js.map",
     "runtime-main.js": "/Lisa-and-Peresvet/static/js/runtime-main.27f572ee.js",
     "runtime-main.js.map": "/Lisa-and-Peresvet/static/js/runtime-main.27f572ee.js.map",
     "static/css/2.26633bc4.chunk.css": "/Lisa-and-Peresvet/static/css/2.26633bc4.chunk.css",
@@ -10,12 +10,11 @@
     "static/js/2.6d7c37b5.chunk.js.map": "/Lisa-and-Peresvet/static/js/2.6d7c37b5.chunk.js.map",
     "index.html": "/Lisa-and-Peresvet/index.html",
     "static/css/2.26633bc4.chunk.css.map": "/Lisa-and-Peresvet/static/css/2.26633bc4.chunk.css.map",
-    "static/css/main.0f36587a.chunk.css.map": "/Lisa-and-Peresvet/static/css/main.0f36587a.chunk.css.map",
+    "static/css/main.9e400218.chunk.css.map": "/Lisa-and-Peresvet/static/css/main.9e400218.chunk.css.map",
     "static/js/2.6d7c37b5.chunk.js.LICENSE.txt": "/Lisa-and-Peresvet/static/js/2.6d7c37b5.chunk.js.LICENSE.txt",
     "static/media/1.0052b667.png": "/Lisa-and-Peresvet/static/media/1.0052b667.png",
     "static/media/10.d3251d26.png": "/Lisa-and-Peresvet/static/media/10.d3251d26.png",
     "static/media/11.056b72c3.png": "/Lisa-and-Peresvet/static/media/11.056b72c3.png",
-    "static/media/12.fd6281c8.png": "/Lisa-and-Peresvet/static/media/12.fd6281c8.png",
     "static/media/13.c8cf46a8.png": "/Lisa-and-Peresvet/static/media/13.c8cf46a8.png",
     "static/media/14.c8b6f007.png": "/Lisa-and-Peresvet/static/media/14.c8b6f007.png",
     "static/media/15.a6c1b84b.png": "/Lisa-and-Peresvet/static/media/15.a6c1b84b.png",
@@ -23,7 +22,6 @@
     "static/media/17.e29345ee.png": "/Lisa-and-Peresvet/static/media/17.e29345ee.png",
     "static/media/2.445a7dab.png": "/Lisa-and-Peresvet/static/media/2.445a7dab.png",
     "static/media/3.77077088.png": "/Lisa-and-Peresvet/static/media/3.77077088.png",
-    "static/media/4.68cdfd74.png": "/Lisa-and-Peresvet/static/media/4.68cdfd74.png",
     "static/media/5.f16209f0.png": "/Lisa-and-Peresvet/static/media/5.f16209f0.png",
     "static/media/6.6d015110.png": "/Lisa-and-Peresvet/static/media/6.6d015110.png",
     "static/media/7.261f71a4.png": "/Lisa-and-Peresvet/static/media/7.261f71a4.png",
@@ -45,7 +43,7 @@
     "static/js/runtime-main.27f572ee.js",
     "static/css/2.26633bc4.chunk.css",
     "static/js/2.6d7c37b5.chunk.js",
-    "static/css/main.0f36587a.chunk.css",
-    "static/js/main.b6b7b9e5.chunk.js"
+    "static/css/main.9e400218.chunk.css",
+    "static/js/main.dd4326a7.chunk.js"
   ]
 }
