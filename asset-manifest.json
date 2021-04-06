@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Lisa-and-Peresvet/static/css/main.16eb7fd0.chunk.css",
-    "main.js": "/Lisa-and-Peresvet/static/js/main.af817282.chunk.js",
-    "main.js.map": "/Lisa-and-Peresvet/static/js/main.af817282.chunk.js.map",
+    "main.css": "/Lisa-and-Peresvet/static/css/main.043f92b6.chunk.css",
+    "main.js": "/Lisa-and-Peresvet/static/js/main.a1d9e670.chunk.js",
+    "main.js.map": "/Lisa-and-Peresvet/static/js/main.a1d9e670.chunk.js.map",
     "runtime-main.js": "/Lisa-and-Peresvet/static/js/runtime-main.27f572ee.js",
     "runtime-main.js.map": "/Lisa-and-Peresvet/static/js/runtime-main.27f572ee.js.map",
     "static/css/2.55bb1627.chunk.css": "/Lisa-and-Peresvet/static/css/2.55bb1627.chunk.css",
-    "static/js/2.c2aad462.chunk.js": "/Lisa-and-Peresvet/static/js/2.c2aad462.chunk.js",
-    "static/js/2.c2aad462.chunk.js.map": "/Lisa-and-Peresvet/static/js/2.c2aad462.chunk.js.map",
+    "static/js/2.3ac2cc1e.chunk.js": "/Lisa-and-Peresvet/static/js/2.3ac2cc1e.chunk.js",
+    "static/js/2.3ac2cc1e.chunk.js.map": "/Lisa-and-Peresvet/static/js/2.3ac2cc1e.chunk.js.map",
     "index.html": "/Lisa-and-Peresvet/index.html",
     "static/css/2.55bb1627.chunk.css.map": "/Lisa-and-Peresvet/static/css/2.55bb1627.chunk.css.map",
-    "static/css/main.16eb7fd0.chunk.css.map": "/Lisa-and-Peresvet/static/css/main.16eb7fd0.chunk.css.map",
-    "static/js/2.c2aad462.chunk.js.LICENSE.txt": "/Lisa-and-Peresvet/static/js/2.c2aad462.chunk.js.LICENSE.txt",
+    "static/css/main.043f92b6.chunk.css.map": "/Lisa-and-Peresvet/static/css/main.043f92b6.chunk.css.map",
+    "static/js/2.3ac2cc1e.chunk.js.LICENSE.txt": "/Lisa-and-Peresvet/static/js/2.3ac2cc1e.chunk.js.LICENSE.txt",
     "static/media/1.0052b667.png": "/Lisa-and-Peresvet/static/media/1.0052b667.png",
     "static/media/10.d3251d26.png": "/Lisa-and-Peresvet/static/media/10.d3251d26.png",
     "static/media/11.056b72c3.png": "/Lisa-and-Peresvet/static/media/11.056b72c3.png",
@@ -36,14 +36,16 @@
     "static/media/QuizButton.96e48896.png": "/Lisa-and-Peresvet/static/media/QuizButton.96e48896.png",
     "static/media/QuizDecor.0744def5.png": "/Lisa-and-Peresvet/static/media/QuizDecor.0744def5.png",
     "static/media/White.fe8aec8f.png": "/Lisa-and-Peresvet/static/media/White.fe8aec8f.png",
+    "static/media/close.12adb4be.svg": "/Lisa-and-Peresvet/static/media/close.12adb4be.svg",
     "static/media/locationLink.7e561f3e.png": "/Lisa-and-Peresvet/static/media/locationLink.7e561f3e.png",
+    "static/media/sandwitch.aef418c1.svg": "/Lisa-and-Peresvet/static/media/sandwitch.aef418c1.svg",
     "static/media/violet.6f0cc5a1.png": "/Lisa-and-Peresvet/static/media/violet.6f0cc5a1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.27f572ee.js",
     "static/css/2.55bb1627.chunk.css",
-    "static/js/2.c2aad462.chunk.js",
-    "static/css/main.16eb7fd0.chunk.css",
-    "static/js/main.af817282.chunk.js"
+    "static/js/2.3ac2cc1e.chunk.js",
+    "static/css/main.043f92b6.chunk.css",
+    "static/js/main.a1d9e670.chunk.js"
   ]
 }
