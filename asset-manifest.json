@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Lisa-and-Peresvet/static/css/main.424cfcf8.chunk.css",
-    "main.js": "/Lisa-and-Peresvet/static/js/main.81142b84.chunk.js",
-    "main.js.map": "/Lisa-and-Peresvet/static/js/main.81142b84.chunk.js.map",
+    "main.css": "/Lisa-and-Peresvet/static/css/main.4f456782.chunk.css",
+    "main.js": "/Lisa-and-Peresvet/static/js/main.5729cc3d.chunk.js",
+    "main.js.map": "/Lisa-and-Peresvet/static/js/main.5729cc3d.chunk.js.map",
     "runtime-main.js": "/Lisa-and-Peresvet/static/js/runtime-main.27f572ee.js",
     "runtime-main.js.map": "/Lisa-and-Peresvet/static/js/runtime-main.27f572ee.js.map",
     "static/css/2.55bb1627.chunk.css": "/Lisa-and-Peresvet/static/css/2.55bb1627.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.3ac2cc1e.chunk.js.map": "/Lisa-and-Peresvet/static/js/2.3ac2cc1e.chunk.js.map",
     "index.html": "/Lisa-and-Peresvet/index.html",
     "static/css/2.55bb1627.chunk.css.map": "/Lisa-and-Peresvet/static/css/2.55bb1627.chunk.css.map",
-    "static/css/main.424cfcf8.chunk.css.map": "/Lisa-and-Peresvet/static/css/main.424cfcf8.chunk.css.map",
+    "static/css/main.4f456782.chunk.css.map": "/Lisa-and-Peresvet/static/css/main.4f456782.chunk.css.map",
     "static/js/2.3ac2cc1e.chunk.js.LICENSE.txt": "/Lisa-and-Peresvet/static/js/2.3ac2cc1e.chunk.js.LICENSE.txt",
     "static/media/1.7c722ad4.png": "/Lisa-and-Peresvet/static/media/1.7c722ad4.png",
     "static/media/10.87ecc0a7.png": "/Lisa-and-Peresvet/static/media/10.87ecc0a7.png",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.27f572ee.js",
     "static/css/2.55bb1627.chunk.css",
     "static/js/2.3ac2cc1e.chunk.js",
-    "static/css/main.424cfcf8.chunk.css",
-    "static/js/main.81142b84.chunk.js"
+    "static/css/main.4f456782.chunk.css",
+    "static/js/main.5729cc3d.chunk.js"
   ]
 }
